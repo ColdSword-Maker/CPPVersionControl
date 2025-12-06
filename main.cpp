@@ -3,6 +3,6 @@
 int main()
 {
 	std::cout << "Main function\n\n";
-	feature_f1();
+	//feature_f1();
 	return 0;
 }
