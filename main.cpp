@@ -2,7 +2,7 @@
 #include "feature.h"
 int main()
 {
-	std::cout << "Main function\n\n";
+	std::cout << "Hello World!\n\n";
 	//feature_f1();
 	return 0;
 }
