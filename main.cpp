@@ -2,7 +2,8 @@
 #include "feature.h"
 int main()
 {
-	std::cout << "Hello World!\n\n";
+	// Print some text
+	std::cout << "Welcome!\n\n\n";
 	//feature_f1();
 	return 0;
 }
